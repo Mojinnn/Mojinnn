@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mojinn!
 
 🎓 I'm a **4th-year Computer Engineering student** passionate about viewing real-world problems through engineering.  
-💻 I enjoy exploring **Embedded Systems**, **Artificial Intelligence**, **Computer Network** and **IC Design**
+💻 I enjoy exploring **Embedded Systems**, **Artificial Intelligence**, **Computer Network** and **IC Design Verification**
 
 ---
 
