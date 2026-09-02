@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Mojinn!
+# 👋 Hi there, I'm Toan Tran!
 
 🎓 I'm a **5th-year Computer Engineering student** passionate about viewing real-world problems through engineering.  
-💻 I enjoy exploring **Embedded Systems**, **Artificial Intelligence**, **Computer Network** and **IC Design Verification**
+💻 I enjoy exploring **Embedded Systems**, **Artificial Intelligence**, **Computer Network** and **Digital IC Design & Verification**
 
 ---
 
